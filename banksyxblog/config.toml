@@ -1,0 +1,8 @@
+baseURL = 'http://banksyx.github.io/'
+languageCode = 'en-us'
+title = 'Banksys New Hugo Site'
+
+theme='hugo-PaperMod'
+
+
+

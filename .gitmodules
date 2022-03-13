@@ -1,0 +1,3 @@
+[submodule "banksyxblog/public"]
+	path = banksyxblog/public
+	url = https://github.com/BanksyX/banksyx.github.io.git
